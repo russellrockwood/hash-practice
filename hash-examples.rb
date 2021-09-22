@@ -6,3 +6,11 @@ car = {
   color: 'black',
   mileage: 124000
 }
+
+alligator = {
+  is_reptile: true,
+  is_happy: false,
+  food: 'people',
+  catch_phrase: 'Later gator!',
+  legs: 4
+}
