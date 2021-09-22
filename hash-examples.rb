@@ -14,3 +14,11 @@ alligator = {
   catch_phrase: 'Later gator!',
   legs: 4
 }
+
+customer = {
+  premium_member: false,
+  first_name: 'Russell',
+  last_name: 'Rockwood',
+  id: 094378583,
+  balance: -100
+}
